@@ -7,6 +7,7 @@ export default function About() {
             <nav className="header">
                 <h1>Hello guys</h1>
                 <Button />
+                <Button />
             </nav>
             <Footer />
         </div>
