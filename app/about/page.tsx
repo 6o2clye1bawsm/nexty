@@ -5,7 +5,7 @@ export default function About() {
     return (
         <div>
             <nav className="header">
-                <h1>Hello</h1>
+                <h1>Hello guys</h1>
                 <Button />
             </nav>
             <Footer />
