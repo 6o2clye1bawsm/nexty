@@ -1,3 +1,5 @@
+this is not a particularily valuable project, i didn't work on it much i was only looking at the difference in react frameworks/build tools
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
